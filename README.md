@@ -15,4 +15,4 @@ Each image file name in the dataset consists of three parts:
 
 For example, the image file named baseball diamond_1_OA8.tif represents a baseball diamond category image, corresponding to region 1 of that category, with an off-nadir angle ID of OA8.
 
-If you use this dataset in your research or project, please cite the following paper:
+If you use this dataset in your research, please cite the following paper:
