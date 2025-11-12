@@ -1,7 +1,5 @@
 # Off-nadir-Scene10 Dataset
 
-Off-nadir-Scene10 Dataset Description
-
 The Off-nadir-Scene10 dataset can be downloaded through the following two links:
 
 (1) Baidu Cloud Drive: https://pan.baidu.com/s/1DdGmylrhFz60NLc1WoovLA,   Access code: OffN
